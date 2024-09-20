@@ -1,0 +1,2 @@
+# Master-s-Thesis---Uncertainty-Categorization-and-Visualization-in-Penicillin-Production-IndPenSim-
+This repo contains the code and analysis for my master’s thesis: "Uncertainty Categorization and Visualization in Industrial-Scale Fed-Batch Fermentation Simulations (Penicillin Production)." It includes statistical analysis of 100 simulated batches, insights on batch performance, and supporting papers and data.
