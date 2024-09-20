@@ -12,6 +12,8 @@ The data represents a 100,000 litre penicillin fermentation system (referred to 
 - Batches 91-100: Include faults and process deviations.
 
 Data Size: ~2.5 GB
+
+
 Source: IndPenSim provides a realistic simulation including Raman spectroscopy data for developing and evaluating control solutions in biotechnology.
 
 ## Objective
