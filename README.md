@@ -1,3 +1,4 @@
 # Master-s-Thesis---Uncertainty-Categorization-and-Visualization-in-Penicillin-Production-IndPenSim-
-This repository contains the analysis and simulation work for my master’s thesis, "Uncertainty Categorization and Visualization in Industrial-Scale Fed-Batch Fermentation Simulations (Penicillin Production)." This work aims to analyze uncertainty across 100 batches of simulated penicillin production and provide insights into batch performance using statistical and machine-learning techniques.
+Overview
+This project is built upon the simulation of penicillin production as outlined in the paper ["Modern day monitoring and control challenges outlined on an industrial-scale benchmark fermentation process"](https://www.sciencedirect.com/science/article/pii/S0098135418305106). The simulation was conducted in MATLAB 2018b, and the data generated from the simulation can be found on [Mendeley Data](https://data.mendeley.com/datasets/pdnjz7zz5x/1).
 
