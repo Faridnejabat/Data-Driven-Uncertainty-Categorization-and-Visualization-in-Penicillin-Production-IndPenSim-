@@ -10,5 +10,21 @@ The data represents a 100,000 litre penicillin fermentation system (referred to 
 - Batches 31-60: Controlled by human operators.
 - Batches 61-90: Controlled by an Advanced Process Control (APC) system using Raman spectroscopy.
 - Batches 91-100: Include faults and process deviations.
-- Data Size: ~2.5 GB
+Data Size: ~2.5 GB
 Source: IndPenSim provides a realistic simulation including Raman spectroscopy data for developing and evaluating control solutions in biotechnology.
+
+## Objective
+The goal of this project is to categorize and visualize uncertainties within each batch, based on the control strategies applied. By defining key Critical Process Parameters (CPP) (e.g., PAA concentration) and Critical Quality Attributes (CQA) (e.g., Penicillin & Biomass concentration), the project ranks each batch and plots them based on their performance and precision.
+
+## Features
+This repository contains all the code and analysis required to:
+
+- Rank each batch based on its performance against defined CPPs and CQAs.
+- Visualize the uncertainties and precision of batch performance under different control strategies.
+- Provide insights into the performance deviations caused by control faults.
+
+The pipeline includes:
+
+Data Preprocessing: Handling raw data from the simulation.
+Uncertainty Categorization: Defining criteria and ranking batches using statistical analysis.
+Visualization: Plotting the ranked performance for further analysis. (Final Visualization has done using Tableau)
