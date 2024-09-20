@@ -28,3 +28,16 @@ The pipeline includes:
 Data Preprocessing: Handling raw data from the simulation.
 Uncertainty Categorization: Defining criteria and ranking batches using statistical analysis.
 Visualization: Plotting the ranked performance for further analysis. (Final Visualization has done using Tableau)
+
+## Data
+You can download the full dataset from [Mendeley Data](https://data.mendeley.com/datasets/pdnjz7zz5x/1). The dataset is not included in this repository due to its large size (~2.5 GB).
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+For questions or further information, feel free to contact:
+
+Name: Farid Nejabat
+Email: farid.nejabat97@gmail.com
+Phone: +43 678 7800 846
