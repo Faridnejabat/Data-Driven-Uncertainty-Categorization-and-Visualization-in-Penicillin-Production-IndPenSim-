@@ -4,11 +4,11 @@ This project is built upon the simulation of penicillin production as outlined i
 ## Data Description
 The data represents a 100,000 litre penicillin fermentation system (referred to as IndPenSim) and is designed for advanced data analytics, machine learning (ML), or artificial intelligence (AI) algorithms applicable to the biopharmaceutical industry.
 
-Key Features:
+### Key Features:
 100 batches of data generated using various control strategies:
-Batches 1-30: Controlled by a recipe-driven approach.
-Batches 31-60: Controlled by human operators.
-Batches 61-90: Controlled by an Advanced Process Control (APC) system using Raman spectroscopy.
-Batches 91-100: Include faults and process deviations.
-Data Size: ~2.5 GB
+- Batches 1-30: Controlled by a recipe-driven approach.
+- Batches 31-60: Controlled by human operators.
+- Batches 61-90: Controlled by an Advanced Process Control (APC) system using Raman spectroscopy.
+- Batches 91-100: Include faults and process deviations.
+- Data Size: ~2.5 GB
 Source: IndPenSim provides a realistic simulation including Raman spectroscopy data for developing and evaluating control solutions in biotechnology.
